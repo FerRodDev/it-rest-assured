@@ -1,1 +1,1 @@
-# integration-testing-rest-assured
+# it-rest-assured
